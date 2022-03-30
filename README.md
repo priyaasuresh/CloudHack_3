@@ -1,4 +1,4 @@
-G SECTION - 404-439-446-458
+## G SECTION - 404-439-446-458
 
 1. PES1UG19CS404 - S S PRIYA
 2. PES1UG19CS439 - SAYONIKA DAS
@@ -56,12 +56,10 @@ This problem statement has two objectives:
        - Test the new microservices-based application. 
     #### 2.1. Add three more services
       - Proceed to add three more services that perform a certain function. You will also have to make changes to the frontend defined in ```index.html``` to make these functions available. Mentioned below are possible functions you could implement but feel free to add your own.
-      - ```gcd```: Takes two numbers as arguments and returns their [Greatest Common Divisor](https://en.wikipedia.org/wiki/Greatest_common_divisor)
-      - ```lcm```: Takes two numbers as arguments and returns their [Least Common Multiple](https://en.wikipedia.org/wiki/Least_common_multiple)
-      - ```modulus```: Returns the remainder of two numbers after division. [Reference](https://en.wikipedia.org/wiki/Remainder)
-      - ```exponent```: Returns the result of the arithmetic operation a<sup>b</sup>
+
       - ```greater_than```: Return ```True``` if the first value is greater than the second else ```False``
       - ```less_than```: return ```True``` if the first value is less than the second else ```False```
       - ```equal```: return ```True``` if the first value is equal to the second else ```False```
+      - ```modulus```: Returns the remainder of two numbers after division. [Reference](https://en.wikipedia.org/wiki/Remainder)
 
 
