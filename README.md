@@ -1,11 +1,11 @@
 ## G SECTION - 404-439-446-458
 
-1. PES1UG19CS404 - S S PRIYA
-2. PES1UG19CS439 - SAYONIKA DAS
-3. PES1UG19CS446 - SHAMBHAVI M PUTTANE
-4. PES1UG19CS458 - SHOURYA N KUMAR
+ - PES1UG19CS404 - S S Priya
+ - PES1UG19CS439 - Sayonika Das
+ - PES1UG19CS446 - Shambavi M Puttane
+ - PES1UG19CS458 - Shourya N Kumar
 
-Problem Statement 3 - Breaking down monoliths
+## Problem Statement 3 - Breaking down monoliths
 
 This problem statement has two objectives:
 
@@ -54,7 +54,7 @@ This problem statement has two objectives:
        Example: ```api.add_resource(<class-name>, '/<int:argument0>/<int:argument1>')```
       - Update the ```Docker-compose.yaml``` to recognize the newly added flask applications as separate services. **The ```Docker-compose.yaml``` lets you define the port number and network alias that will be used by ```landing-service``` to communicate within the entire architecture**
        - Test the new microservices-based application. 
-    #### 2.1. Add three more services
+    #### 2.1. Add more services
       - Proceed to add three more services that perform a certain function. You will also have to make changes to the frontend defined in ```index.html``` to make these functions available. Mentioned below are possible functions you could implement but feel free to add your own.
 
       - ```greater_than```: Return ```True``` if the first value is greater than the second else ```False``
