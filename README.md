@@ -13,6 +13,4 @@ This problem statement has two objectives:
 2. Convert a monolith architecture based docker-compose application into a microservices based architecture.
 
 
-- reference link to the problem statement: 
-
- https://github.com/Teaching-Assistants-of-Cloud-Computing/CloudHack/tree/master/Problem%20Statement%203
+- [Reference to Problem Statement-3](https://github.com/Teaching-Assistants-of-Cloud-Computing/CloudHack/tree/master/Problem%20Statement%203)
