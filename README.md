@@ -1,9 +1,9 @@
 ## Team Details - 404-439-446-458
 
- - PES1UG19CS404 - S S Priya
- - PES1UG19CS439 - Sayonika Das
- - PES1UG19CS446 - Shambavi M Puttane
- - PES1UG19CS458 - Shourya N Kumar
+ - PES1UG19CS404 - [S S Priya](https://github.com/priyaasuresh)
+ - PES1UG19CS439 - [Sayonika Das](https://github.com/sayonika02)
+ - PES1UG19CS446 - [Shambavi M Puttane](https://github.com/Sham-puttane)
+ - PES1UG19CS458 - [Shourya N Kumar](https://github.com/shouryank)
 
 ## Problem Statement 3 - Breaking down monoliths
 
