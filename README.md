@@ -47,14 +47,14 @@ The application consists of the following services:
 ## Intial Monolith architecture diagram
 <sub>
 <p align="center">
-  <img src="docs/microservices-initial.drawio.png" />
+  <img src="microservices-initial.drawio.png" />
 </p><h1></h1>
 </sub>
 
 
 ## Converted to Microservices-based architecture diagram
 <p align="center">
-  <img src="docs/microservices-final.drawio.png" />
+  <img src="microservices-final.drawio.png" />
   
 
 </p>
